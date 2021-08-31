@@ -1,0 +1,14 @@
+Codigo VPN:
+sudo openvpn --config jmorin__ssl_vpn_config.ovpn
+	Uss: jmorin
+	Pass: DFA8cDPx3fL3
+
+Disys 1: 148.247.201.141
+Disys 3 148.247.201.143
+
+Us: st03
+Pass: Fp3bWRIl16
+Container: submit-st03_0
+
+
+* Ejecutar comandos py en el contenedor en la direccion /data/st03/py
